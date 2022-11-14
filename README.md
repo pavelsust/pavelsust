@@ -29,6 +29,12 @@ Support my work below:
 ![pavelsust's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavelsust&theme=dark&show_icons=true)&nbsp;&nbsp;
 ![pavelsust's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavelsust&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8)
  
+ 
+ 
+[![](./profile-summary-card-output/default/0-profile-details.svg)](https://github.com/pavelsust/github-profile-summary-cards)
+[![](./profile-summary-card-output/default/3-stats.svg)](https://github.com/pavelsust/github-profile-summary-cards) [![](./profile-summary-card-output/default/4-productive-time.svg)](https://github.com/pavelsust/github-profile-summary-cards)
+[![](./profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/pavelsust/github-profile-summary-cards) [![](./profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/pavelsust/github-profile-summary-cards)
+
 
   
 
